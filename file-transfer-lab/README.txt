@@ -7,4 +7,4 @@ will not stop recieving until the size is met. After the size is met then the se
 After the Ok is receive by the client the cleint will send the next part. After the entire file is done
 the Client will send a sing to tell the server that the trasnfer is complete.
 
-There's a but that appeared at random so it was hard for me to find it but it low chances that it appears.
+There's a bug that appeared at random so it was hard for me to fix it but it low chances that it appears.
