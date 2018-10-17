@@ -7,7 +7,7 @@ sys.path.append("../lib")       # for params
 import params
 
 switchesVarDefaults = (
-    (('-s', '--server'), 'server', "127.0.0.1:50000"),
+    (('-s', '--server'), 'server', "127.0.0.1:50001"),
     (('-?', '--usage'), "usage", False), # boolean (set if present)
     )
 
